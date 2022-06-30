@@ -2,6 +2,7 @@
 
 Python flask
 
+# Running environment
 source venv/bin/activate
 
 # Running app
